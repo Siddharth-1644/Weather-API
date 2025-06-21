@@ -1,6 +1,8 @@
 # Weather-API
 A simple Node.js API that fetches real-time weather data from Visual Crossing and caches it using Redis.
 
+**Project URL**: [https://github.com/Siddharth-1644/Weather-API](https://github.com/Siddharth-1644/Weather-API)
+
 ## Features
 - 3rd-party API integration
 - In-memory caching with Redis
